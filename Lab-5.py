@@ -17,4 +17,4 @@ def hill_climbing(a):
 a = [1, 2, 3, 4, 6, 4, 3, 9]
 
 result = hill_climbing(a)
-print("Final result:", result)
+print("Final result:", result) 
